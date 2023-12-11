@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="facebookBgColor">#3b5999</color>
+    <color name="grayColor">#C7C7C9</color>
+    <color name="loginButtonColor">#4f69a2</color>
+    <color name="searchColor">#2c4877</color>
+    <color name="darkgray">#6C6C70</color>
+    <color name="buttonColors">#3d7be2</color>
+</resources>

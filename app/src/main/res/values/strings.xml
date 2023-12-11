@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AndroidTask1</string>
+    <string name="email_or_phone_number">Email or phone number</string>
+    <string name="password">password</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up_for_facebook">Sign Up for Facebook</string>
+    <string name="help_center">Help Center</string>
+    <string name="search">search</string>
+    <string name="home">Home</string>
+    <string name="videos">Videos</string>
+    <string name="posts">Posts</string>
+    <string name="photos">Photos</string>
+    <string name="community">Community</string>
+    <string name="unblast">Unblast</string>
+    <string name="_2hrs">2hrs</string>
+    <string name="buckle_up_because_change_is_coming_to_wordpress_http_unblast_com_color_schemes">Buckle up,because change is coming to WordPress http://unblast.com/color-schemes</string>
+    <string name="_12">12</string>
+    <string name="_1_share">1 share</string>
+    <string name="like">Like</string>
+    <string name="comment">Comment</string>
+    <string name="share">Share</string>
+    <string name="learn_more">Learn More</string>
+</resources>

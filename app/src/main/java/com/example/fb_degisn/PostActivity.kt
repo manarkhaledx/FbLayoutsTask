@@ -1,8 +1,8 @@
-package com.example.androidtask1
+package com.example.fb_degisn
 
 import android.os.Bundle
-import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
+import com.example.androidtask1.R
 
 public class PostActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState:Bundle?) {

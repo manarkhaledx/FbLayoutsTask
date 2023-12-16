@@ -1,4 +1,4 @@
-package com.example.androidtask1
+package com.example.fb_degisn
 
 import org.junit.Test
 

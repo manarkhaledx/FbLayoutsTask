@@ -1,4 +1,4 @@
-package com.example.androidtask1
+package com.example.fb_degisn
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

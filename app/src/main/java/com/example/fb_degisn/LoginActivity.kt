@@ -1,9 +1,10 @@
-package com.example.androidtask1
+package com.example.fb_degisn
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
+import com.example.androidtask1.R
 
 class LoginActivity : AppCompatActivity() {
 
